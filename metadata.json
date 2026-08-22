@@ -1,0 +1,6 @@
+{
+  "name": "DataBridge Transfer",
+  "description": "Aplicativo profissional de transferência rápida e segura de arquivos entre Windows/PC, Android e iOS via Wi-Fi local, QR Code e Código de Emparelhamento.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
